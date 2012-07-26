@@ -1,4 +1,4 @@
-scala-play-todolist
-===================
+This is your new Play 2.0 application
+=====================================
 
-Implementation of the Scala/Play todolist example
+This file will be packaged with your application, when using `play dist`.

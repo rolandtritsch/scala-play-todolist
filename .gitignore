@@ -1,0 +1,9 @@
+# general
+*~
+
+# build env
+target/
+project/project/
+project/target/
+logs/
+public/
